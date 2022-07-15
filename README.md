@@ -1,6 +1,6 @@
 # edgy-cli
 
-This is the command line version of <a href="https://github.com/zerodayrat/Edgy-API">Edgy API</a>. As developers we don't have that much time to open websites look for jokes. so now you can enjoy random jokes
+This is the command line version of <a href="https://github.com/zerodayrat/Edgy-API">Edgy API</a>. As developers we don't have much time to open websites and look for jokes. so now you can enjoy random jokes
 and light up your mood right from your terminal.
 
 # Installation
